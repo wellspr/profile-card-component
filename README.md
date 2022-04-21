@@ -29,7 +29,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/profile-card-component-semantic-html-css-with-flexbox-BkK63I1S9](https://www.frontendmentor.io/solutions/profile-card-component-semantic-html-css-with-flexbox-BkK63I1S9)
 - Live Site URL: [https://profile-card-component-wellspr.vercel.app/](https://profile-card-component-wellspr.vercel.app/)
 
 ## My process
